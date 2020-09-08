@@ -1,0 +1,39 @@
+.container{
+    padding: 0 30px;
+}
+.menu
+{
+    width: 70%;
+    
+}
+.menu ul li{
+    display: inline;
+}
+.logo{
+    width: 20%;
+    float: left;
+   
+}
+.logo img{
+    width: 100%;
+}
+
+<header>
+        <div class="container">
+            <div class="logo">
+                <img src="images/ASHRAF LOGO 2.png" alt="">
+    
+            </div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Service</a></li>
+                    <li><a href="#">Portfolio</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+    
+            </div>
+            
+        </div>
+    </header>
